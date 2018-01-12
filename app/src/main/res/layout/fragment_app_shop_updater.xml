@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info3.gm.com.memoryleaksviewer.fragments.AppShopUpdaterFragment"
+    android:background="#3c3c3c">
+
+    <include layout="@layout/leak_canary_display_leak"/>
+
+
+</FrameLayout>
